@@ -5,7 +5,6 @@ import {
     CustomEliceCard,
 } from '@dev.leekiseok/elice-storybook/dist';
 import Test from '../src/assets/test.jpg';
-
 function App() {
     const [count, setCount] = useState(0);
 
